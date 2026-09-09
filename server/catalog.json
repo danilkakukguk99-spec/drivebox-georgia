@@ -1,0 +1,79 @@
+[
+  {
+    "id": "charger-holder",
+    "priceCents": 6900,
+    "name": {
+      "ka": "ტელეფონის დამჭერი + 15W უსადენო დამტენი",
+      "ru": "Держатель телефона + беспроводная зарядка 15W",
+      "en": "Phone Holder + 15W Wireless Charger"
+    },
+    "stock": null,
+    "active": true
+  },
+  {
+    "id": "vacuum",
+    "priceCents": 7900,
+    "name": {
+      "ka": "ავტომობილის მტვერსასრუტი 120W",
+      "ru": "Автомобильный пылесос 120W",
+      "en": "120W Car Vacuum"
+    },
+    "stock": null,
+    "active": true
+  },
+  {
+    "id": "compressor",
+    "priceCents": 13900,
+    "name": {
+      "ka": "Cyclone KS-312 ორდგუშიანი კომპრესორი",
+      "ru": "Двухпоршневой компрессор Cyclone KS-312",
+      "en": "Cyclone KS-312 Twin-Piston Compressor"
+    },
+    "stock": null,
+    "active": true
+  },
+  {
+    "id": "headlight-kit",
+    "priceCents": 9900,
+    "name": {
+      "ka": "T-Cut ფარების აღდგენის ნაკრები",
+      "ru": "Набор восстановления фар T-Cut",
+      "en": "T-Cut Headlight Restoration Kit"
+    },
+    "stock": null,
+    "active": true
+  },
+  {
+    "id": "jumpstarter",
+    "priceCents": 44900,
+    "name": {
+      "ka": "NOCO GB40 1000A დამქოქი",
+      "ru": "Пусковое устройство NOCO GB40 1000A",
+      "en": "NOCO GB40 1000A Jump Starter"
+    },
+    "stock": null,
+    "active": true
+  },
+  {
+    "id": "carplay",
+    "priceCents": 12900,
+    "name": {
+      "ka": "Plugsy Lite CarPlay / Android Auto ადაპტერი",
+      "ru": "Беспроводной адаптер Plugsy Lite CarPlay / Android Auto",
+      "en": "Plugsy Lite Wireless CarPlay / Android Auto Adapter"
+    },
+    "stock": null,
+    "active": true
+  },
+  {
+    "id": "dashcam",
+    "priceCents": 34900,
+    "name": {
+      "ka": "70mai Dash Cam A410 Set",
+      "ru": "Видеорегистратор 70mai Dash Cam A410 Set",
+      "en": "70mai Dash Cam A410 Set"
+    },
+    "stock": null,
+    "active": true
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "drivebox-georgia",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-public.mjs",
+    "test": "node --test tests/netlify*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@netlify/database": "2.0.1",
+    "nodemailer": "10.0.1"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.5.8"
+  },
+  "packageManager": "pnpm@11.19.0"
+}

@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+data/
+__pycache__/
+*.pyc
+.venv/
+
+.DS_Store
+work/
+dist/
+.netlify/
+node_modules/
+*.sqlite3
+*.sqlite3-*
+*.db
+backups/

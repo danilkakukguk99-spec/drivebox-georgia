@@ -99,11 +99,11 @@ window.DRIVEBOX_PRODUCTS = [
     supplierPublicPrice: 130,
     image: "https://static.tnet.ge/mymarket/photos/thumbs/0930/31625403_5.jpg?v=7",
     imageAlt: "Wireless CarPlay and Android Auto adapter",
-    name: {ka:"Wireless CarPlay / Android Auto ადაპტერი",ru:"Беспроводной адаптер CarPlay / Android Auto",en:"Wireless CarPlay / Android Auto Adapter"},
+    name: {ka:"Plugsy Lite CarPlay / Android Auto ადაპტერი",ru:"Беспроводной адаптер Plugsy Lite CarPlay / Android Auto",en:"Plugsy Lite Wireless CarPlay / Android Auto Adapter"},
     tagline: {ka:"თუ მანქანაში უკვე გაქვს სადენიანი CarPlay/Android Auto — გადააქციე უსადენოდ.",ru:"Если в машине уже есть проводной CarPlay/Android Auto — сделай его беспроводным.",en:"Turn existing wired CarPlay/Android Auto into wireless."},
     bullets: {
-      ka:["USB/Type-C შეერთება","ერთჯერადი დაყენება","შემდეგ ავტომატური კავშირი","მხოლოდ მანქანებისთვის, სადაც wired CarPlay/Android Auto უკვე არის"],
-      ru:["USB/Type-C подключение","Однократная настройка","Дальше автоматическое подключение","Только для авто с уже имеющимся wired CarPlay/Android Auto"],
+      ka:["USB/Type-C შეერთება","ერთჯერადი დაყენება","შემდეგ ავტომატური კავშირი","მხოლოდ მანქანებისთვის, სადაც სადენიანი CarPlay/Android Auto უკვე არის"],
+      ru:["USB/Type-C подключение","Однократная настройка","Дальше автоматическое подключение","Только для авто с уже имеющимся проводным CarPlay/Android Auto"],
       en:["USB/Type-C connection","One-time setup","Automatic reconnection","Only for cars that already support wired CarPlay/Android Auto"]
     }
   },

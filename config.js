@@ -3,6 +3,7 @@ window.DRIVEBOX_CONFIG = {
   domain: "drivebox.ge",
   defaultLanguage: "ka",
   testMode: true,
+  promotion: { enabled: true, discountPercent: 15, freeShipping: true },
   seller: {
     legalName: "REPLACE_WITH_SELLER_NAME",
     idNumber: "REPLACE_WITH_IE_ID",

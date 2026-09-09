@@ -1,3 +1,9 @@
+# DRIVEBOX store
+
+Серверное оформление заказов и закрытая панель менеджера добавлены. Запуск: `python3 server/store.py`. Инструкции, переменные окружения, платежи и ограничения: [DEPLOYMENT.md](DEPLOYMENT.md).
+
+Ниже сохранены исходные сведения о прототипе и поставщиках. Статический запуск `http.server` больше не поддерживает оформление заказов.
+
 # DRIVEBOX prototype
 
 Static, mobile-first Georgia automotive-accessories store prototype.
